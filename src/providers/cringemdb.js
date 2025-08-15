@@ -31,7 +31,7 @@ function scrapeWarnings(html, url) {
 
     // Flags
     const emojiMap = {
-        'Sex Scene': '🔞',
+        '18+': '🔞',
         'Nudity': '👁️‍🗨️',
         'Sexual Violence': '💔',
         // 'Graphic Violence': '🩸',
